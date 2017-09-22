@@ -11,7 +11,7 @@ public class Demo {
 		String[] dir = file.list();
 		
 		for (String dirs : dir) {
-			
+			System.out.println(dirs);
 
 			
 		}
